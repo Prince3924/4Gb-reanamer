@@ -2,9 +2,9 @@ import os
 
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-OWNER = int(os.environ.get("OWNER", ""))
+API_ID = int(os.environ.get("API_ID", "25247945"))
+API_HASH = os.environ.get("API_HASH", "9ceb690851943cdece7f6cb622d91b2a")
+OWNER = int(os.environ.get("OWNER", "6038949180"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
@@ -28,8 +28,8 @@ BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae
 # token verification adding features is paid so if you want then dm me
 
 
-SHORTNER_URL = os.environ.get("SHORTNER_URL", "")
-SHORTNER_API = os.environ.get("SHORTNER_API", "")
+SHORTNER_URL = os.environ.get("SHORTNER_URL", "gplinks.com")
+SHORTNER_API = os.environ.get("SHORTNER_API", "1bdd8968fc7022939d184b75aed4055fc166d2d3")
 TOKEN_TIMEOUT = os.environ.get("TOKEN_TIMEOUT", "")
 
 
